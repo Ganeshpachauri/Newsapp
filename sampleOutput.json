@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Hafsa Adil",
+            "title": "All you need to know about the ICC Cricket World Cup 2023",
+            "description": "Ten teams vie for the 2023 ICC Cricket World Cup, hosted by India from October 5 to November 19.",
+            "url": "http://www.aljazeera.com/sports/2023/9/25/icc-cricket-world-cup-2023-india-all-you-need-to-know-preview",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/the_icc_men_s_cwc_2023_trophy_tour_in_agra__taj_mahal___1-1695281215.jpeg?resize=1920%2C1440",
+            "publishedAt": "2023-09-25T13:03:14Z",
+            "content": "International crickets biggest tournament is set to get under way in India on October 5.\r\nA blockbuster clash between the 2019 finalists England and New Zealand will kick off the International Cricke… [+4960 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "ECB wants to 'change game' to tackle discrimination",
+            "description": "The England and Wales Cricket Board says it is \"on a journey to change the game\" as it publishes a response to a report detailing racism, sexism, classism and elitism in the sport.",
+            "url": "http://www.bbc.co.uk/sport/cricket/66902420",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/168CC/production/_131246329_generalviewoflord's.jpg",
+            "publishedAt": "2023-09-25T12:22:21.7189589Z",
+            "content": "The Independent Commission for Equity in Cricket received more than 4,000 responses to its call for evidence\r\nThe England and Wales Cricket Board (ECB) says it wants \"to change the game\" as it publis… [+6464 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Hafsa Adil",
+            "title": "India visa delay disrupts Pakistan’s Cricket World Cup 2023 preparations",
+            "description": "Pakistan Cricket Board cancels team bonding session in Dubai as it awaits Indian visa 10 days before the tournament.",
+            "url": "http://www.aljazeera.com/news/2023/9/25/india-visa-delay-disrupts-pakistans-cricket-world-cup-2023-preparations",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23249352401433-1695627924.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-25T08:22:17Z",
+            "content": "Pakistan cricket teams preparations for the ICC Cricket World Cup 2023 in India have been disrupted due to a visa delay that has delayed the sides departure for the event that gets under way in 10 da… [+2075 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
